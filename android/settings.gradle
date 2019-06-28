@@ -1,0 +1,3 @@
+rootProject.name = 'playoff'
+
+include ':app'
